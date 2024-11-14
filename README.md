@@ -2,6 +2,7 @@
 
 ## Overview
 This project presents an intelligent system for detecting fluid leaks in industrial pipelines using a combination of hardware components and machine learning. The system uses the Seeed Wio Terminal, a DFRobot Water Flow sensor, and a custom-trained AI model to monitor liquid flow and identify potential leaks in real-time. By analyzing flow rate data, the AI model classifies the state of the pipeline into three categories: no flow, normal flow, and leak. This approach helps protect the environment, reduce health risks, and prevent costly damage to pipelines.
+![pic1](https://github.com/user-attachments/assets/12c145f7-b4b6-406a-b47c-741df297c8d6)
 
 ## Hardware Setup
 ### Components:
